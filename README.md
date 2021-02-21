@@ -1,3 +1,6 @@
+### What does this do?
+This will delete all files on your slack workspace that you have access to that are over 6 months old. If you want to change how old the files are, just change `monthsToSubtract` constant.
+
 ### Prerequisites:
 * Yarn should be installed on your machine (or npm)
 
